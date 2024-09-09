@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dashreact/static/css/main.8adc5c30.css",
+    "main.js": "/dashreact/static/js/main.e1a79e74.js",
+    "static/js/453.51b20bab.chunk.js": "/dashreact/static/js/453.51b20bab.chunk.js",
+    "index.html": "/dashreact/index.html",
+    "main.8adc5c30.css.map": "/dashreact/static/css/main.8adc5c30.css.map",
+    "main.e1a79e74.js.map": "/dashreact/static/js/main.e1a79e74.js.map",
+    "453.51b20bab.chunk.js.map": "/dashreact/static/js/453.51b20bab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8adc5c30.css",
+    "static/js/main.e1a79e74.js"
+  ]
+}
